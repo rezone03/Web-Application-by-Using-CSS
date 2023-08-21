@@ -1,0 +1,59 @@
+<html>
+<head>
+     <title>Office</title>
+	 <link rel="stylesheet" href="Style.css">
+</head>
+<body style="background-color: rgb(12, 26, 34);">
+
+	         <header>
+			     <a href="#" class="logo">Mobile<span>Zone</span></a>
+	             <ul class="navigation">   
+                     <li><a href="Home.html">Home</a></li>
+                     <li><a href="Office.html">Office</a></li> 
+                     <li><a href="Gallery.html">Gallery</a></li>
+                     <li><a href="Video.html">Video</a></li>
+                     <li><a href="Contact.html">Contact</a></li>
+				 </ul>			 
+		     </header><br><br><br>
+               <div>
+                    <table id="customers">
+                        <tr>
+                            <th>Image</th>
+                            <th>Name</th>
+                            <th>Address</th>
+                        </tr>
+                        <tr>
+                            <td><img src="Img_Gallery/office1.jpg" style="display: block;
+                                margin-left: auto;
+                                margin-right: auto;
+                                height: 250px;
+                                width: 300px;"></td>
+                            <td>Bashundhora City Market</td>
+                            <td>3 No Tejturi Bazar West, Panthapath, Dhaka 1215</td>
+                        </tr>
+                        <tr>
+                            <td><img src="Img_Gallery/office2.jpg" style="display: block;
+                                margin-left: auto;
+                                margin-right: auto;
+                                height: 200px;
+                                width: 300px;"></td>
+                                <td>Jamuna Future Park</td>
+                                <td>KA-244, Kuril, Progoti Shoroni, Dhaka</td>
+                        </tr>
+                        <tr>
+                            <td><img src="Img_Gallery/office3.jpg" style="display: block;
+                            margin-left: auto;
+                            margin-right: auto;
+                            height: 250px;
+                            width: 300px;"></td>
+                            <td>Tokyo Square</td>
+                            <td>9 Ring Rd, Dhaka 1207</td>
+                        </tr>
+                    </table>
+                </div>
+               
+                <footer style="background-color: rgb(196, 196, 196);">
+                    <p id="foot">&copy; 2000 car. All rights reserved.</p>
+                </footer>
+     </body>
+     </html>

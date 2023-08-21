@@ -1,0 +1,50 @@
+<html>
+<head>
+     <title>Gallery</title>
+	 <link rel="stylesheet" href="Style.css">
+</head>
+<body>
+     <main>
+	         <header>
+			     <a href="#" class="logo">Mobile<span>Zone</span></a>
+	             <ul class="navigation">   
+                     <li><a href="Home.html">Home</a></li>
+                     <li><a href="Office.html">Office</a></li> 
+                     <li><a href="Gallery.html">Gallery</a></li>
+                     <li><a href="Video.html">Video</a></li>
+                     <li><a href="Contact.html">Contact</a></li>
+				 </ul>			 
+		     </header><br><br><br>
+
+               <div class="image_color">
+                    <center>         
+                    <h1>Image Gallery</h1><br><br>
+                
+               <div class="gallery">
+                    <img src="Img_Gallery/image1.jpeg">
+                    <div class="desc">Xiaomi Redmi Note 11 Pro+ 5G</div>
+                    </div>
+                       
+                       <div class="gallery">
+                    <img src="Img_Gallery/image2.jpg">
+                    <div class="desc">Apple iPhone 14 Pro Max</div>
+                    </div>
+                       
+                       <div class="gallery">
+                    <img src="Img_Gallery/image3.jpeg">
+                    <div class="desc">Samsung Galaxy S23 Ultra</div>
+                    </div>
+                       
+                       <div class="gallery">
+                    <img src="Img_Gallery/image4.jpg">
+                    <div class="desc">Xiaomi Poco X5 Pro 5G</div>
+                       </div>
+
+                    </center>
+                  </div>
+               
+     </main>
+     <footer>
+          <p id="foot">&copy; 2023 Mobile Shop. All rights reserved.</p>
+       </footer> 
+       </body>
